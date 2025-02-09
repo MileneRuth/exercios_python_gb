@@ -1,6 +1,6 @@
-from math import cos,sin, tan
-ang = float(input('Digite um angulo: '))
-s = sin(ang)
-c = cos(ang)
-t = tan(ang)
-print('O angulo escolido foi: {:.2f} \nSeu seno: {:.2f} \nSeu cosseno: {:.2f} \nÉ por fim sua tangente: {:.2f}'.format(ang, s, c, t ))
+import math
+ang = float(input('Digite um angulo que você deseja: '))
+s = math.sin(math.radians(ang))
+c = math.cos(math.radians(ang))
+t = math.tan(math.radians(ang))
+print('O ângulo de {} \nTem o seno: {:.2f} \nO cosseno: {:.2f} \nE sua tamgemte: {:.2f} '.format(ang, s, c, t))
