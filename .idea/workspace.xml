@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python test/exercicio 24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python test/exercicio 26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python test/exercicio 27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,8 @@
     "Python.exercicio 22.executor": "Run",
     "Python.exercicio 23.executor": "Run",
     "Python.exercicio 24.executor": "Run",
+    "Python.exercicio 25.executor": "Run",
+    "Python.exercicio 26.executor": "Run",
     "Python.len.executor": "Run",
     "Python.testemp.executor": "Run",
     "Python.texto.executor": "Run",
@@ -76,7 +79,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercicio 25">
+  <component name="RunManager" selected="Python.exercicio 26">
     <configuration name="exercicio 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -165,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio 26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/len.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/exercicio 26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio 26" />
         <item itemvalue="Python.exercicio 25" />
         <item itemvalue="Python.exercicio 24" />
         <item itemvalue="Python.exercicio 23" />
         <item itemvalue="Python.exercicio 22" />
-        <item itemvalue="Python.len" />
       </list>
     </recent_temporary>
   </component>
