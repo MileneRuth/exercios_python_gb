@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python test/exercicio 26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python test/exercicio 27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python test/coreção 22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,7 @@
     "Python.Desafio 21 (audio).executor": "Run",
     "Python.aula 09 manipulando texto.executor": "Run",
     "Python.aula09.executor": "Run",
+    "Python.coreção 22.executor": "Run",
     "Python.desafio 17.executor": "Run",
     "Python.desafio 18.executor": "Run",
     "Python.desafio 19.executor": "Run",
@@ -79,8 +79,8 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercicio 26">
-    <configuration name="exercicio 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.coreção 22">
+    <configuration name="coreção 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/exercicio 22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/coreção 22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coreção 22" />
         <item itemvalue="Python.exercicio 26" />
         <item itemvalue="Python.exercicio 25" />
         <item itemvalue="Python.exercicio 24" />
         <item itemvalue="Python.exercicio 23" />
-        <item itemvalue="Python.exercicio 22" />
       </list>
     </recent_temporary>
   </component>
