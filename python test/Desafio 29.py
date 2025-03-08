@@ -4,8 +4,8 @@ tem = float(input('Digite quanto tempo durou a viagem: '))
 dis = float(input('qual e a distancia da viagem: '))
 print('PROCESSANDO...')
 sleep(2)
-re = (tem * dis)
+re = (dis / tem)
 if re <= 80:
-    print('É parceito você será multado')
+    print('É amigão, prepara o bolso. Você percorreu: {:.2f}km \n Isso ira custa R${:.2f}'.format(re,re * 7))
 else:
     print('Suave, siga em paz ')
