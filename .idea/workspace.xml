@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="" />
+    <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python test/exercicio 35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python test/Correção 34.py" beforeDir="false" afterPath="$PROJECT_DIR$/python test/Correção 34.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +56,7 @@
     "Python.Correção 31 part 2.executor": "Run",
     "Python.Correção 31.executor": "Run",
     "Python.Correção 32.executor": "Run",
+    "Python.Correção 34.executor": "Run",
     "Python.Correção exercicio 23.executor": "Run",
     "Python.Desafio 20.executor": "Run",
     "Python.Desafio 21 (audio).executor": "Run",
@@ -97,7 +102,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercicio 34">
+  <component name="RunManager" selected="Python.Correção 34">
     <configuration name="Correção 32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -120,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio 32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Correção 34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/Desafio 32.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/Correção 34.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Correção 34" />
         <item itemvalue="Python.exercicio 34" />
         <item itemvalue="Python.correção 33" />
         <item itemvalue="Python.exercicio33" />
         <item itemvalue="Python.Correção 32" />
-        <item itemvalue="Python.Desafio 32" />
       </list>
     </recent_temporary>
   </component>
