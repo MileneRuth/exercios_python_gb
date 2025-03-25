@@ -8,7 +8,7 @@ c = float(input('digite o terceiro seguimento: '))
 print('ANALISANDO....')
 sleep(2)
 resultado = [a,b,c]
-if resultado == a < b+c:
+if resultado == a < b + c:
     print('OPAA, podemos fazer u tringulo com esses seguimentos ')
 else:
     print('Infelizmente já não podemos fazer um triangulo')
