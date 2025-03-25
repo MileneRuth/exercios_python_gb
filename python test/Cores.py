@@ -1,6 +1,6 @@
 from time import sleep
 print('-=-'* 20)
-print('\033[33mANALISADOR DE RETÂNGULO\033[m')
+print('\033[1;33mANALISADOR DE RETÂNGULO\033[m')
 print('-=-' * 20)
 n1 = float(input('Digite o primeiro seguimento: '))
 n2 = float(input('Digite o segundo seguimento: '))
