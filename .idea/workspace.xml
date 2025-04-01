@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="" />
+    <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/python test/prova mod 1 .py" beforeDir="false" afterPath="$PROJECT_DIR$/python test/prova mod 1 .py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,58 +42,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Cores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Coreção 24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correçao 35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 26.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 31 part 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção 34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correção exercicio 23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 21 (audio).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula 09 manipulando texto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.condições pratica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coreção 22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.correção 33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio 17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio 18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio 19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 26.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.len.executor&quot;: &quot;Run&quot;,
-    &quot;Python.media condições.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testemp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.texto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tranfomação.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Milen/OneDrive/Área de Trabalho/mr/exercios_python_gb/python test&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Cores.executor": "Run",
+    "Python.Coreção 24.executor": "Run",
+    "Python.Correçao 35.executor": "Run",
+    "Python.Correção 25.executor": "Run",
+    "Python.Correção 26.executor": "Run",
+    "Python.Correção 27.executor": "Run",
+    "Python.Correção 28.executor": "Run",
+    "Python.Correção 29.executor": "Run",
+    "Python.Correção 30.executor": "Run",
+    "Python.Correção 31 part 2.executor": "Run",
+    "Python.Correção 31.executor": "Run",
+    "Python.Correção 32.executor": "Run",
+    "Python.Correção 34.executor": "Run",
+    "Python.Correção exercicio 23.executor": "Run",
+    "Python.Desafio 20.executor": "Run",
+    "Python.Desafio 21 (audio).executor": "Run",
+    "Python.Desafio 28.executor": "Run",
+    "Python.Desafio 29.executor": "Run",
+    "Python.Desafio 32.executor": "Run",
+    "Python.aula 09 manipulando texto.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "Python.condições pratica.executor": "Run",
+    "Python.coreção 22.executor": "Run",
+    "Python.correção 33.executor": "Run",
+    "Python.desafio 17.executor": "Run",
+    "Python.desafio 18.executor": "Run",
+    "Python.desafio 19.executor": "Run",
+    "Python.exercicio 22.executor": "Run",
+    "Python.exercicio 23.executor": "Run",
+    "Python.exercicio 24.executor": "Run",
+    "Python.exercicio 25.executor": "Run",
+    "Python.exercicio 26.executor": "Run",
+    "Python.exercicio 30.executor": "Run",
+    "Python.exercicio 31.executor": "Run",
+    "Python.exercicio 34.executor": "Run",
+    "Python.exercicio 35.executor": "Run",
+    "Python.exercicio33.executor": "Run",
+    "Python.len.executor": "Run",
+    "Python.media condições.executor": "Run",
+    "Python.prova mod 1 .executor": "Run",
+    "Python.testemp.executor": "Run",
+    "Python.texto.executor": "Run",
+    "Python.tranfomação.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Milen/OneDrive/Área de Trabalho/mr/exercios_python_gb/python test",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
@@ -101,7 +104,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Cores">
+  <component name="RunManager" selected="Python.prova mod 1 ">
     <configuration name="Cores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -168,28 +171,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio 34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercios_python_gb" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/exercicio 34.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="exercicio 35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -212,13 +193,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prova mod 1 " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercios_python_gb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python test/prova mod 1 .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prova mod 1 " />
         <item itemvalue="Python.Cores" />
         <item itemvalue="Python.Correçao 35" />
         <item itemvalue="Python.exercicio 35" />
         <item itemvalue="Python.Correção 34" />
-        <item itemvalue="Python.exercicio 34" />
       </list>
     </recent_temporary>
   </component>
