@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo 2/Desafio 39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo 2/Desafio036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo 2/usando data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo 2/Desafio036.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo 2/Desafio036.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +109,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.usando data">
+  <component name="RunManager" selected="Python.Desafio036">
     <configuration name="12.Condições aninhadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -224,9 +222,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio036" />
         <item itemvalue="Python.usando data" />
         <item itemvalue="Python.Desafio 39" />
-        <item itemvalue="Python.Desafio036" />
         <item itemvalue="Python.12.Condições aninhadas" />
         <item itemvalue="Python.prova mod 1 " />
       </list>
