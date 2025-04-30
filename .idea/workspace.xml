@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo 2/exercicio042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo 2/correção042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
     "Python.corregindo ex 38.executor": "Run",
     "Python.correção 33.executor": "Run",
     "Python.correção 39.executor": "Run",
+    "Python.correção042.executor": "Run",
     "Python.desafio 17.executor": "Run",
     "Python.desafio 18.executor": "Run",
     "Python.desafio 19.executor": "Run",
@@ -118,7 +119,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercicio042">
+  <component name="RunManager" selected="Python.correção042">
     <configuration name="Correção 041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -163,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="correção 39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="correção042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/correção 39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/correção042.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.correção042" />
         <item itemvalue="Python.exercicio042" />
         <item itemvalue="Python.Correção 041" />
         <item itemvalue="Python.Desafio 041" />
         <item itemvalue="Python.exercicio 040" />
-        <item itemvalue="Python.correção 39" />
       </list>
     </recent_temporary>
   </component>
