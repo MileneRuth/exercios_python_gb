@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo 2/exercicio045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo 2/exercicio045.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo 2/exercicio045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +97,7 @@
     "Python.exercicio 34.executor": "Run",
     "Python.exercicio 35.executor": "Run",
     "Python.exercicio042.executor": "Run",
+    "Python.exercicio045.executor": "Run",
     "Python.exercicio33.executor": "Run",
     "Python.exercicio43.executor": "Run",
     "Python.len.executor": "Run",
@@ -123,7 +124,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Correção 44">
+  <component name="RunManager" selected="Python.exercicio045">
     <configuration name="Correção 44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -168,28 +169,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="correção042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercios_python_gb" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/correção042.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="correção43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -204,6 +183,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/correção43.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercios_python_gb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/exercicio045.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio045" />
         <item itemvalue="Python.Correção 44" />
         <item itemvalue="Python.correção43" />
         <item itemvalue="Python.calculadoraIMC" />
         <item itemvalue="Python.exercicio43" />
-        <item itemvalue="Python.correção042" />
       </list>
     </recent_temporary>
   </component>
