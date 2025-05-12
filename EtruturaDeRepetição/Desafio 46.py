@@ -1,8 +1,6 @@
 from time import sleep
-
 import emoji
-import imoji
 print('Contagem regressiva')
-for c in range(0, 10):
-    print(c, sleep(1))
+for cont in range(10,-1, -1):
+    print(cont, sleep(1))
 print(emoji.emojize('BUM :fireworks:', language = 'alias'))
