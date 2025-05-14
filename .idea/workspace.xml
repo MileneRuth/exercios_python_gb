@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 49.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 46.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 46.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +74,9 @@
     "Python.Desafio 32.executor": "Run",
     "Python.Desafio 39.executor": "Run",
     "Python.Desafio 46.executor": "Run",
+    "Python.Desafio 47.executor": "Run",
+    "Python.Desafio 48.executor": "Run",
+    "Python.Desafio 49.executor": "Run",
     "Python.Desafio036.executor": "Run",
     "Python.Exercicio 37.executor": "Run",
     "Python.aula 09 manipulando texto.executor": "Run",
@@ -124,54 +129,11 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\EtruturaDeRepetição" />
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio 46">
-    <configuration name="Aula 13 FOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercios_python_gb" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Aula 13 FOR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Correção 44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercios_python_gb" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/Correção 44.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio 47">
     <configuration name="Desafio 46" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -194,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio 47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +165,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo 2/exercicio045.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 47.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercios_python_gb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 48.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercios_python_gb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio 47" />
+        <item itemvalue="Python.Desafio 49" />
+        <item itemvalue="Python.Desafio 48" />
         <item itemvalue="Python.Desafio 46" />
         <item itemvalue="Python.teste de preguiça" />
-        <item itemvalue="Python.Aula 13 FOR" />
-        <item itemvalue="Python.exercicio045" />
-        <item itemvalue="Python.Correção 44" />
       </list>
     </recent_temporary>
   </component>
