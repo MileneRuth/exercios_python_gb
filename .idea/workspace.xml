@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio 51.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 51.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 49.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 49.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio 51">
+  <component name="RunManager" selected="Python.Desafio 49">
     <configuration name="Desafio 47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -246,10 +245,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio 49" />
         <item itemvalue="Python.Desafio 51" />
         <item itemvalue="Python.Desafio 50" />
         <item itemvalue="Python.Desafio 48" />
-        <item itemvalue="Python.Desafio 49" />
         <item itemvalue="Python.Desafio 47" />
       </list>
     </recent_temporary>
