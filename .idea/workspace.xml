@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 50.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 51.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 51.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +75,7 @@
     "Python.Desafio 48.executor": "Run",
     "Python.Desafio 49.executor": "Run",
     "Python.Desafio 50 (1).executor": "Run",
+    "Python.Desafio 51 (1).executor": "Run",
     "Python.Desafio 51.executor": "Run",
     "Python.Desafio036.executor": "Run",
     "Python.Exercicio 37.executor": "Run",
@@ -129,32 +130,11 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\EtruturaDeRepetição" />
+      <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\modulo 2" />
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio 50 (1)">
-    <configuration name="Desafio 48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercios_python_gb" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 48.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio 51 (1)">
     <configuration name="Desafio 49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -221,6 +201,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio 51 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercios_python_gb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EtruturaDeRepetição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Desafio 51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -234,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 51.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\EtruturaDeRepetição\Desafio 51.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio 51 (1)" />
         <item itemvalue="Python.Desafio 50 (1)" />
         <item itemvalue="Python.Desafio 49" />
         <item itemvalue="Python.Desafio 51" />
         <item itemvalue="Python.Desafio 50" />
-        <item itemvalue="Python.Desafio 48" />
       </list>
     </recent_temporary>
   </component>
