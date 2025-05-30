@@ -1,10 +1,7 @@
-n = int(input('Digite um núemro: '))
-primo = True
-for c in range(2,n):
+n = int(input('Digite um número: '))
+for c in range(1, n + 1):
     if n % c == 0:
-        primo = False
-        break
-if primo:
-    print('O  número {} é primo'.format(n))
-else:
-    print('O número {} não e primo'.format(n))
+        print('\033[1;33m', end= ' ')
+    else:
+        print('\033[1;31m',end=' ')
+    print('{} '.format(c))
