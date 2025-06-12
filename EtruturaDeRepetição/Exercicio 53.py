@@ -1,8 +1,8 @@
 frase = str(input('Digite uma frase: ')).strip().replace(" ","").upper()
 print(frase)
-for letra in frase[:: -1]:
-    if frase == frase:
-        print ('E uma palídromo')
-    else:
-        print('não e um políndromo')
-print('fim') 
+invertida = frase[:: -1]
+print(invertida)
+if frase == invertida:
+    print('E um palíndromo!')
+else:
+    print('Não é um palíndromo')
