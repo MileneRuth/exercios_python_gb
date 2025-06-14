@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7d4a32-7437-4e51-b6ba-f1fb4e0e7e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Desafio 54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EtruturaDeRepetição/Correção 54.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.Correção 32.executor": "Run",
     "Python.Correção 34.executor": "Run",
     "Python.Correção 44.executor": "Run",
+    "Python.Correção 54.executor": "Run",
     "Python.Correção exercicio 23.executor": "Run",
     "Python.Desafio  52.executor": "Run",
     "Python.Desafio 038.executor": "Run",
@@ -139,7 +140,7 @@
       <recent name="C:\Users\Milen\OneDrive\Área de Trabalho\mr\exercios_python_gb\python test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio 54">
+  <component name="RunManager" selected="Python.Correção 54">
     <configuration name="Correção 53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
@@ -162,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio  52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Correção 54" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercios_python_gb" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Desafio  52.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EtruturaDeRepetição/Correção 54.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Correção 54" />
         <item itemvalue="Python.Desafio 54" />
         <item itemvalue="Python.Correção 53" />
         <item itemvalue="Python.Desafio 53 (1)" />
         <item itemvalue="Python.Desafio 53" />
-        <item itemvalue="Python.Desafio  52" />
       </list>
     </recent_temporary>
   </component>
